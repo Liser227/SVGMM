@@ -1,6 +1,6 @@
 # SVGMM
 
-This is a unsurpervised PolSAR classification code for training SVGMM, and you can use it in your model to test your own PolSAR datasets.
+This code is to train and test SVGMM for unsurpervised PolSAR image classification task, and you can also use it to test your own PolSAR datasets.
 
 You can download various PolSAR images from EASA or AFS website: 1) https://earth.esa.int/web/polsarpro/airborne-data-sources. https://uavsar.jpl.nasa.gov/cgi-bin/data.pl. 
 
